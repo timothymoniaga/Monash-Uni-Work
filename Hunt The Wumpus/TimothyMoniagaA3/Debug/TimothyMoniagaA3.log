@@ -1,0 +1,5 @@
+﻿  ApplicationDriver.cpp
+D:\Uni\Monash\FIT1048\Assignment 3\TimothyMoniagaA3\TimothyMoniagaA3\ApplicationDriver.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Uni\Monash\FIT1048\Assignment 3\TimothyMoniagaA3\TimothyMoniagaA3\ApplicationDriver.cpp(165,20): warning C4018: '<': signed/unsigned mismatch
+D:\Uni\Monash\FIT1048\Assignment 3\TimothyMoniagaA3\TimothyMoniagaA3\ApplicationDriver.cpp(879,20): warning C4018: '<': signed/unsigned mismatch
+  TimothyMoniagaA3.vcxproj -> D:\Uni\Monash\FIT1048\Assignment 3\TimothyMoniagaA3\Debug\TimothyMoniagaA3.exe

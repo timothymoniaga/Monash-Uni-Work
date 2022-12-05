@@ -1,0 +1,35 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                              Hunt the Wumpus
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Silven Valley a peaceful area until the Wumpus arrived and settled in the nearby 
+caverns. The Wumpus, a dangerous creature that has no one has ever seen this creature
+and lived to tell the tail. Your mission,for fame and fortune, is to find and slay 
+the creature.
+
+You must traverse these dangerous caverns fighting off other monsters while searching
+for the sleeping Wumpus. You have to sneak up on him while he is sleeping if you run 
+into him you are as good as gone. 
+
+Each location will have a brief description and up to 3 different directions that you 
+will be able to travel to. To travel to an adjacent room enter one LETTER of the 
+direction you wish to travel to (N,E,S,W,NE,NW,SE,SW). New information about the 
+room you have traveled to will appear and you repeat the process until you have 
+found the Wumpus.
+
+In the caverns there are multiple dangers: endless pits, superbats, sneaky goblins, 
+ghosts, fallen angels, bandits and of course the Wumpus. 
+
+The Wumpus is not so lazy this time of year and every couple of turns he will move
+to a random adjacent cave. The Bandit wanders around the cave aimlessly but is 
+completely deaf and cannot hear your arrows. Super bats are really strong and will
+take you to a random location in the caverns. Sneaky goblins are silent and will steal
+your stuff and take you to a random location. Ghosts and fallen angels are a bit nicer
+just make sure to get on their good side, they will gove you rewards if you encounter them
+
+To win you must kill the Wumpus before your lantern oil or arrows run out.
+At the end of the game there is a score given where the maximum without recieving any 
+rewards is 1000.
+
+Difficulty increases number of hazards and characters, reduces starting arrow 
+and lantern oil.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,21 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                   Help Menu
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Warnings:
+Wumpus, You smell the Wumpus!
+Endless Pit, You feel a draft.
+Goblins, (say nothing as they are sneaky and silent)
+Ghost, You feel someone is watching you.
+Angel, You feel the presence of something holy.
+Super Bats, Sounds like Super Bats nearby.
+Bandit, You hear heavy footsteps.
+================================================================================
+Controls:
+[N,E,S,W,NE,NW,SE,SW] takes you that direction
+'H' opens this menu
+'Q' quits the game
+'M' opens the map * may need to expand 
+    screen map is quite large
+'C' shows all enemy locations
+'Shoot' shoots an arrow in specified direction
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,15 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                     Ghost Story
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I was an adventurer just like you traversing these caves hunting the infamous Wumpus
+for fame and fortune. I came here originally with a group of friends. However, we 
+encountered a goblin gang that robbed us of our lantern oil and arrows. Desperate, 
+everyone ran toward the exit. But one of my closest friends tripped just before the 
+exit. Only I stopped to help him get back up. When I did he pulled me toward the 
+ground propelling himself toward the exit, essentially betraying and dooming me.
+I always wanted to get revenge but was never able to. Now I wander the very same
+cavers that I was killed in helping adventurers like you. As thanks I'll give you 
+this magical map where you can see the location of everyone and everything in the
+caverns (press 'c' to see all locations). And I'll restore your lantern oil and 
+arrows. Thank you for listening to me.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
